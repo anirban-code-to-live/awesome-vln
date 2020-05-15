@@ -4,9 +4,9 @@ A curated list of research papers in Human-Robot Interaction. Link to the code a
 
 ## Papers
 
-<!--1. **** <br>
+<!--_1. **** <br>
 ** <br>
-RSS, 2016. [[Paper]]() [[Code]]() [[Video]]()--!>
+RSS, 2016. [[Paper]]() [[Code]]() [[Video]]()-->
 
 1. **Understanding natural language commands for robotic navigation and mobile manipulation** <br>
 *Stefanie Tellex, Thomas Kollar, Steven Dickerson, Matthew R Walter, Ashis Gopal Banerjee, Seth Teller, Nicholas Roy* <br>
