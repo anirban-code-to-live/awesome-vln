@@ -53,6 +53,10 @@ CoRL, 2018. [[Paper]](http://proceedings.mlr.press/v87/nyga18a/nyga18a.pdf)
 *Jesse Thomason, Aishwarya Padmakumar, Jivko Sinapov, Nick Walker, Yuqian Jiang, Harel Yedidsion, Justin Hart, Peter Stone, Raymond J. Mooney* <br>
 ICRA, 2019. [[Paper]](https://arxiv.org/abs/1903.00122) [[Video]](https://www.youtube.com/watch?v=PbOfteZ_CJc&feature=youtu.be&t=5)
 
+1. **Learning to Generate Unambiguous Spatial Referring Expressions for Real-World Environments** <br>
+*Fethiye Irmak Doğan, Sinan Kalkan, Iolanda Leite* <br>
+IROS, 2019. [[Paper]](https://arxiv.org/abs/1904.07165) [[Video]](https://www.youtube.com/watch?v=BE6-F6chW0w&feature=youtu.be)
+
 1. **Expressing Visual Relationships via Language** <br>
 *Hao Tan, Franck Dernoncourt, Zhe Lin, Trung Bui, and Mohit Bansal* <br>
 ACL, 2019. [[Paper]](https://arxiv.org/abs/1906.07689) [[Code]](https://github.com/airsplay/VisualRelationships)
