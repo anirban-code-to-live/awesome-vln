@@ -32,6 +32,10 @@ ACL, 2017. [[Paper]](https://www.aclweb.org/anthology/P17-2034/) [[Code]](http:/
 *Mohit Shridhar, David Hsu* <br>
 RSS, 2018. [[Paper]](https://arxiv.org/abs/1806.03831) [[Video]](https://drive.google.com/file/d/15AttCp-KCDEt8Ys5TfqXowsElm9GqAkH/view) 
 
+1. **Learning Interpretable Spatial Operations in a Rich 3D Blocks World** <br>
+*Yonatan Bisk, Kevin Shih, Yejin Choi, and Daniel Marcu* <br>
+AAAI, 2018. [[Paper]](https://yonatanbisk.com/papers/2018-AAAI.pdf) [[Code]](https://github.com/ybisk/GroundedLanguage)
+
 1. **Mapping Instructions to Actions in 3D Environments with Visual Goal Prediction** <br>
 *Dipendra Misra, Andrew Bennett, Valts Blukis, Eyvind Niklasson, Max Shatkhin, Yoav Artzi* <br>
 EMNLP, 2018. [[Paper]](https://arxiv.org/pdf/1809.00786.pdf) [[Code]](https://github.com/lil-lab/ciff)
@@ -44,6 +48,10 @@ CoRL, 2018. [[Paper]](https://arxiv.org/abs/1811.04179)
 *Daniel Nyga, Subhro Roy, Rohan Paul, Daehyung Park, Mihai Pomarlan,
 Michael Beetz, Nicholas Roy* <br>
 CoRL, 2018. [[Paper]](http://proceedings.mlr.press/v87/nyga18a/nyga18a.pdf)
+
+1. **Improving Grounded Natural Language Understanding through Human-Robot Dialog** <br>
+*Jesse Thomason, Aishwarya Padmakumar, Jivko Sinapov, Nick Walker, Yuqian Jiang, Harel Yedidsion, Justin Hart, Peter Stone, Raymond J. Mooney* <br>
+ICRA, 2019. [[Paper]](https://arxiv.org/abs/1903.00122) [[Video]](https://www.youtube.com/watch?v=PbOfteZ_CJc&feature=youtu.be&t=5)
 
 1. **Expressing Visual Relationships via Language** <br>
 *Hao Tan, Franck Dernoncourt, Zhe Lin, Trung Bui, and Mohit Bansal* <br>
@@ -69,6 +77,10 @@ ICRA, 2020. [[Paper]](https://arxiv.org/abs/1904.12907) [[Video]](https://www.yo
 *Hyounghun Kim, Hao Tan, and Mohit Bansal* <br>
 AAAI, 2020. [[Paper]](https://arxiv.org/abs/2001.06354)
 
+1. **REVERIE: Remote Embodied Visual Referring Expression in Real Indoor Environments** <br>
+*Yuankai Qi, Qi Wu, Peter Anderson, Xin Wang, William Yang Wang, Chunhua Shen, Anton van den Hengel* <br>
+CVPR, 2020. [[Paper]](https://arxiv.org/abs/1904.10151) [[Code]](https://github.com/YuankaiQi/REVERIE) 
+
 1. **ALFRED: A Benchmark for Interpreting Grounded Instructions for Everyday Tasks** <br>
 *Mohit Shridhar, Jesse Thomason, Daniel Gordon, Yonatan Bisk, Winson Han, Roozbeh Mottaghi, Luke Zettlemoyer, Dieter Fox* <br>
 CVPR, 2020. [[Paper]](https://arxiv.org/abs/1912.01734) [[Code]](https://github.com/askforalfred/alfred) 
@@ -76,3 +88,11 @@ CVPR, 2020. [[Paper]](https://arxiv.org/abs/1912.01734) [[Code]](https://github.
 1. **Diagnosing the Environment Bias in Vision-and-Language Navigation** <br>
 *Yubo Zhang, Hao Tan, Mohit Bansal* <br>
 IJCAI, 2020. [[Paper]](https://arxiv.org/abs/2005.03086) [[Code]](https://github.com/zhangybzbo/EnvBiasVLN)
+
+1. **Experience Grounds Language** <br>
+*Yonatan Bisk, Ari Holtzman, Jesse Thomason, Jacob Andreas, Yoshua Bengio, Joyce Chai, Mirella Lapata, Angeliki Lazaridou, Jonathan May, Aleksandr Nisnevich, Nicolas Pinto, Joseph Turian* <br>
+arXiv, 2020. [[Paper]](https://arxiv.org/abs/2004.10151)
+
+1. **RMM: A Recursive Mental Model for Dialog Navigation** <br>
+*Homero Roman Roman, Yonatan Bisk, Jesse Thomason, Asli Celikyilmaz, Jianfeng Gao* <br>
+arXiv, 2020. [[Paper]](https://arxiv.org/abs/2005.00728)
